@@ -4,7 +4,7 @@ A minimalistic, responsive portfolio website showcasing my journey into **Data A
 
 ## 🚀 Live Site
 
-Deployed via GitHub Pages: [sihabrahman.github.io/sihabrahman](https://sihabrahman.github.io/sihabrahman)
+Deployed via GitHub Pages: [sihabrahman.github.io/folio](https://sihabrahman.github.io/folio/)
 
 ## ✨ Features
 
